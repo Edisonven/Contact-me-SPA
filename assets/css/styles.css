@@ -33,7 +33,7 @@ p {
   color: rgb(163, 158, 158);
 }
 .sidebar {
-  max-width: 430px;
+  flex-basis: 400px;
   border: solid 1px rgb(163, 158, 158);
   min-height: 100vh;
 }
