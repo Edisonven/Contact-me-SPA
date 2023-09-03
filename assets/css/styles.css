@@ -30,6 +30,8 @@ p {
 }
 .sidebar {
   max-width: 430px;
+  border: solid 1px rgb(163, 158, 158);
+  min-height: 100vh;
 }
 .perfil-menu {
   display: flex;
@@ -42,4 +44,19 @@ p {
   align-items: center;
   padding-left: 1em;
   gap: 0.1em;
+}
+.nuevo-chat button {
+  background-color: rgb(172, 114, 226);
+  color: white;
+  padding: 0.5em 1.7em 0.5em 1.7em;
+  font-size: 3em;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  padding: 4em;
+  border: solid 1px rgb(163, 158, 158);
+}
+.button a:hover {
+  opacity: 50%;
 }
