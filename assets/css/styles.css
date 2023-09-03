@@ -7,10 +7,39 @@
 .primer-contacto {
   display: flex;
   align-items: center;
-  gap: 2em;
+  gap: 1em;
   padding: 1.5em;
+  border: solid 1px rgb(163, 158, 158);
+  flex-shrink: 1;
+  justify-content: space-between;
 }
 .primer-contacto img {
   width: 6em;
   border-radius: 50%;
+}
+.nombre-contacto {
+  display: flex;
+  align-items: center;
+}
+.nombre-contacto h1,
+p {
+  font-size: 1.8em;
+}
+.nombre-contacto p {
+  color: rgb(163, 158, 158);
+}
+.sidebar {
+  max-width: 430px;
+}
+.perfil-menu {
+  display: flex;
+  align-items: start;
+  gap: 2em;
+}
+.actividad {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 1em;
+  gap: 0.1em;
 }
