@@ -4,6 +4,10 @@
   font-size: 10px;
   font-family: "Cabin", sans-serif;
 }
+
+.container {
+  display: flex;
+}
 .primer-contacto {
   display: flex;
   align-items: center;
@@ -145,4 +149,14 @@ p {
 }
 .chat8 h1 {
   font-size: 1.8em;
+}
+.menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+}
+.menu h1 {
+  font-size: 6em;
 }
