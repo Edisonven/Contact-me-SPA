@@ -15,6 +15,7 @@
 }
 .primer-contacto img {
   width: 6em;
+  height: 5.5em;
   border-radius: 50%;
 }
 .nombre-contacto {
@@ -59,4 +60,89 @@ p {
 }
 .button a:hover {
   opacity: 50%;
+}
+.chats img {
+  width: 6em;
+  height: 6em;
+  border-radius: 50%;
+}
+.chat1 {
+  display: flex;
+  align-items: center;
+  padding: 2.5em;
+  gap: 2em;
+  border: solid 1px rgb(163, 158, 158);
+}
+.chat1 h1 {
+  font-size: 1.8em;
+}
+.chat2 {
+  display: flex;
+  align-items: center;
+  padding: 2.5em;
+  gap: 2em;
+  border: solid 1px rgb(163, 158, 158);
+}
+.chat2 h1 {
+  font-size: 1.8em;
+}
+.chat3 {
+  display: flex;
+  align-items: center;
+  padding: 2.5em;
+  gap: 2em;
+  border: solid 1px rgb(163, 158, 158);
+}
+.chat3 h1 {
+  font-size: 1.8em;
+}
+.chat4 {
+  display: flex;
+  align-items: center;
+  padding: 2.5em;
+  gap: 2em;
+  border: solid 1px rgb(163, 158, 158);
+}
+.chat4 h1 {
+  font-size: 1.8em;
+}
+.chat5 {
+  display: flex;
+  align-items: center;
+  padding: 2.5em;
+  gap: 2em;
+  border: solid 1px rgb(163, 158, 158);
+}
+.chat5 h1 {
+  font-size: 1.8em;
+}
+.chat6 {
+  display: flex;
+  align-items: center;
+  padding: 2.5em;
+  gap: 2em;
+  border: solid 1px rgb(163, 158, 158);
+}
+.chat6 h1 {
+  font-size: 1.8em;
+}
+.chat7 {
+  display: flex;
+  align-items: center;
+  padding: 2.5em;
+  gap: 2em;
+  border: solid 1px rgb(163, 158, 158);
+}
+.chat7 h1 {
+  font-size: 1.8em;
+}
+.chat8 {
+  display: flex;
+  align-items: center;
+  padding: 2.5em;
+  gap: 2em;
+  border: solid 1px rgb(163, 158, 158);
+}
+.chat8 h1 {
+  font-size: 1.8em;
 }
