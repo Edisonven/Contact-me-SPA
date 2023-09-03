@@ -14,7 +14,6 @@
   gap: 1em;
   padding: 1.5em;
   border: solid 1px rgb(163, 158, 158);
-  flex-shrink: 1;
   justify-content: space-between;
 }
 .primer-contacto img {
