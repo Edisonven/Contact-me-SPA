@@ -17,7 +17,7 @@
   border: solid 1px rgb(163, 158, 158);
   justify-content: space-between;
 }
-.primer-contacto img {
+.nombre-contacto > img {
   width: 6em;
   height: 5.5em;
   border-radius: 50%;
@@ -26,11 +26,11 @@
   display: flex;
   align-items: center;
 }
-.nombre-contacto h1,
+.actividad h1,
 p {
   font-size: 1.8em;
 }
-.nombre-contacto p {
+.actividad > p {
   color: rgb(163, 158, 158);
 }
 .sidebar {
@@ -63,7 +63,7 @@ p {
   padding: 4em;
   border: solid 1px rgb(163, 158, 158);
 }
-.button a:hover {
+.nuevo-chat > a:hover {
   opacity: 50%;
 }
 .chats img {
