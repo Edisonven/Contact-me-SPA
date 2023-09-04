@@ -74,55 +74,13 @@ p {
 .chats h1 {
   font-size: 1.8em;
 }
-.chat1 {
-  display: flex;
-  align-items: center;
-  padding: 2.5em;
-  gap: 2em;
-  border: solid 1px rgb(163, 158, 158);
-}
-.chat2 {
-  display: flex;
-  align-items: center;
-  padding: 2.5em;
-  gap: 2em;
-  border: solid 1px rgb(163, 158, 158);
-}
-.chat3 {
-  display: flex;
-  align-items: center;
-  padding: 2.5em;
-  gap: 2em;
-  border: solid 1px rgb(163, 158, 158);
-}
-.chat4 {
-  display: flex;
-  align-items: center;
-  padding: 2.5em;
-  gap: 2em;
-  border: solid 1px rgb(163, 158, 158);
-}
-.chat5 {
-  display: flex;
-  align-items: center;
-  padding: 2.5em;
-  gap: 2em;
-  border: solid 1px rgb(163, 158, 158);
-}
-.chat6 {
-  display: flex;
-  align-items: center;
-  padding: 2.5em;
-  gap: 2em;
-  border: solid 1px rgb(163, 158, 158);
-}
-.chat7 {
-  display: flex;
-  align-items: center;
-  padding: 2.5em;
-  gap: 2em;
-  border: solid 1px rgb(163, 158, 158);
-}
+.chat1,
+.chat2,
+.chat3,
+.chat4,
+.chat5,
+.chat6,
+.chat7,
 .chat8 {
   display: flex;
   align-items: center;
