@@ -99,3 +99,7 @@ p {
 .menu h1 {
   font-size: 6em;
 }
+.menu p,
+strong {
+  font-size: 1.8rem;
+}
