@@ -57,14 +57,14 @@ p {
   padding: 0.5em 1.7em 0.5em 1.7em;
   font-size: 3em;
 }
+.nuevo-chat > a:hover {
+  opacity: 50%;
+}
 .button {
   display: flex;
   justify-content: center;
   padding: 4em;
   border: solid 1px rgb(163, 158, 158);
-}
-.nuevo-chat > a:hover {
-  opacity: 50%;
 }
 .chats img {
   width: 6em;
