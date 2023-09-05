@@ -29,7 +29,7 @@
 }
 .actividad h1,
 p {
-  font-size: 1.8em;
+  font-size: 1.8rem;
 }
 .actividad > p {
   color: rgb(163, 158, 158);
@@ -56,7 +56,7 @@ p {
   background-color: rgb(176 160 216);
   color: white;
   padding: 0.5em 1.7em 0.5em 1.7em;
-  font-size: 3em;
+  font-size: 3rem;
 }
 .nuevo-chat > a:hover {
   opacity: 50%;
@@ -74,7 +74,7 @@ p {
   border-radius: 50%;
 }
 .chats h1 {
-  font-size: 1.8em;
+  font-size: 1.8rem;
 }
 .chat1,
 .chat2,
