@@ -53,6 +53,9 @@ p {
 .perfil-menu > a:visited {
   color: #828485;
 }
+.perfil-menu > a:active {
+  opacity: 30%;
+}
 .actividad {
   display: flex;
   flex-direction: column;
