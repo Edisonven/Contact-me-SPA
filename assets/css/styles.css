@@ -34,7 +34,7 @@ p {
 .actividad > p {
   color: rgb(163, 158, 158);
 }
-.activo {
+.status {
   display: flex;
   align-items: baseline;
   gap: 0.8em;
@@ -49,6 +49,9 @@ p {
   display: flex;
   align-items: start;
   gap: 2em;
+}
+.perfil-menu > a:visited {
+  color: #828485;
 }
 .actividad {
   display: flex;
