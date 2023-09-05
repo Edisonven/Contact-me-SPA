@@ -13,8 +13,9 @@
   display: flex;
   align-items: center;
   gap: 1em;
-  padding: 2em 3.8em 2em 2em;
-  border: solid 1px rgb(163, 158, 158);
+  padding: 1.5em 3.8em 1.5em 2em;
+  border: solid 1px #e8ebe4;
+  border-bottom-color: #bec1bb;
   justify-content: space-between;
 }
 .nombre-contacto > img {
@@ -35,7 +36,7 @@ p {
 }
 .sidebar {
   flex-basis: 400px;
-  border: solid 1px rgb(163, 158, 158);
+  border: solid 1px #e8ebe4;
   min-height: 100vh;
   background-color: white;
 }
@@ -64,7 +65,8 @@ p {
   display: flex;
   justify-content: center;
   padding: 4em;
-  border: solid 1px rgb(163, 158, 158);
+  border: solid 1px #e8ebe4;
+  border-bottom-color: #bec1bb;
 }
 .chats img {
   width: 6em;
@@ -84,9 +86,10 @@ p {
 .chat8 {
   display: flex;
   align-items: center;
-  padding: 2.5em;
+  padding: 2em;
   gap: 2em;
-  border: solid 1px rgb(163, 158, 158);
+  border: solid 1px #e8ebe4;
+  border-bottom-color: #bec1bb;
 }
 .menu {
   display: flex;
@@ -102,4 +105,7 @@ p {
 .menu p,
 strong {
   font-size: 1.8rem;
+}
+.menu img {
+  width: 350px;
 }
