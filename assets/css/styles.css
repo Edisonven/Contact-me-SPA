@@ -3,8 +3,13 @@
   margin: 0;
   font-size: 10px;
   font-family: "Cabin", sans-serif;
+  box-sizing: border-box;
 }
-
+body h1,
+p,
+strong {
+  font-size: 1.8rem;
+}
 .container {
   display: flex;
   background-color: rgb(240, 240, 240);
@@ -27,10 +32,7 @@
   display: flex;
   align-items: center;
 }
-.actividad h1,
-p {
-  font-size: 1.8rem;
-}
+
 .status > p {
   color: rgb(163, 158, 158);
 }
@@ -87,9 +89,7 @@ p {
   height: 6em;
   border-radius: 50%;
 }
-.chats h1 {
-  font-size: 1.8rem;
-}
+
 .chat1,
 .chat2,
 .chat3,
@@ -116,10 +116,7 @@ p {
 .menu h1 {
   font-size: 6em;
 }
-.menu p,
-strong {
-  font-size: 1.8rem;
-}
+
 .menu img {
   width: 350px;
 }
