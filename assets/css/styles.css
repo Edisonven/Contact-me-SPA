@@ -31,7 +31,7 @@
 p {
   font-size: 1.8rem;
 }
-.actividad > p {
+.status > p {
   color: rgb(163, 158, 158);
 }
 .status {
@@ -50,11 +50,14 @@ p {
   align-items: start;
   gap: 2em;
 }
-.perfil-menu > a:visited {
+.perfil-menu a:visited {
   color: #828485;
 }
-.perfil-menu > a:active {
+.perfil-menu a:active {
   opacity: 30%;
+}
+.perfil-menu a {
+  color: inherit;
 }
 .actividad {
   display: flex;
